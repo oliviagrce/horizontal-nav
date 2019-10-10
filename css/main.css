@@ -1,8 +1,14 @@
 html {
   box-sizing: border-box;
-  font-family: 'Bevan', sans-serif;
+  font-family: 'Bevan', cursive;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+h1 {
+  color: #fff;
+  background-color: #79756f;
 }
