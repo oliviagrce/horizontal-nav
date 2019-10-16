@@ -40,8 +40,8 @@ ul a {
 
 .intro {
   background-color: #713837;
-  color: white;
-  padding: 0.6em;
+  color: #fff;
+  padding: .6em;
   font-family: sans-serif;
   display: inline-block;
   border-radius: 10px;
@@ -57,8 +57,8 @@ ul a {
 
 .terre {
   background-color: #713837;
-  color: white;
-  padding: 0.6em;
+  color: #fff;
+  padding: .6em;
   font-family: sans-serif;
   display: inline-block;
   border-radius: 10px;
@@ -73,8 +73,8 @@ ul a {
 
 .mars {
   background-color: #713837;
-  color: white;
-  padding: 0.6em;
+  color: #fff;
+  padding: .6em;
   font-family: sans-serif;
   display: inline-block;
   border-radius: 10px;
@@ -89,8 +89,8 @@ ul a {
 
 .venus {
   background-color: #713837;
-  color: white;
-  padding: 0.6em;
+  color: #fff;
+  padding: .6em;
   font-family: sans-serif;
   display: inline-block;
   border-radius: 10px;
