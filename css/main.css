@@ -9,7 +9,6 @@ html {
 
 body {
   background-color: #dbd6cf;
-  img: 100%;
 }
 
 div {
@@ -64,7 +63,6 @@ ul a {
 }
 
 .intro:hover {
-  color: #fff;
   background-color: #f33;
 }
 
