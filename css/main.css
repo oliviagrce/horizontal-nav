@@ -9,7 +9,7 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin: .3em;
+  margin: 0.3em;
 }
 
 div {
@@ -47,6 +47,12 @@ nav ul {
 .intro:hover {
   color: #fff;
   background-color: #f33;
+  padding: 10px;
+  font-family: sans-serif;
+  display: inline-block;
+  border-radius: 10px;
+  font-weight: lighter;
+  text-align: center;
 }
 
 .terre {
