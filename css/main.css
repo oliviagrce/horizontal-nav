@@ -24,6 +24,10 @@ h1 {
   align-content: center;
 }
 
+nav ul {
+  list-style-type: armenian;
+}
+
 .intro {
   background-color: #713837;
   color: white;
