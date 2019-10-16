@@ -40,6 +40,11 @@ nav ul {
   text-align: center;
 }
 
+.intro:hover {
+  color: #fff;
+  background-color: #f33;
+}
+
 .terre {
   background-color: #713837;
   color: white;
@@ -49,6 +54,11 @@ nav ul {
   border-radius: 10px;
   font-weight: lighter;
   text-align: center;
+}
+
+.terre:hover {
+  color: #fff;
+  background-color: #f33;
 }
 
 .mars {
@@ -62,6 +72,11 @@ nav ul {
   text-align: center;
 }
 
+.mars:hover {
+  color: #fff;
+  background-color: #f33;
+}
+
 .venus {
   background-color: #713837;
   color: white;
@@ -71,4 +86,9 @@ nav ul {
   border-radius: 10px;
   font-weight: lighter;
   text-align: center;
+}
+
+.venus:hover {
+  color: #fff;
+  background-color: #f33;
 }
