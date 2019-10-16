@@ -44,16 +44,6 @@ nav ul {
   text-align: center;
 }
 
-.intro:hover {
-  color: #fff;
-  background-color: #f33;
-  padding: 10px;
-  font-family: sans-serif;
-  display: inline-block;
-  border-radius: 10px;
-  font-weight: lighter;
-  text-align: center;
-}
 
 .terre {
   background-color: #713837;
