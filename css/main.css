@@ -1,14 +1,66 @@
 html {
   box-sizing: border-box;
-  font-family: 'Bevan', cursive;
   line-height: 1.5;
+  background-color: #dbd6cf;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
+div {
+  background-color: #79756f;
+  display: block;
+  width: 100%;
+  border: 4px solid #595652;
+  align-content: center;
+}
 
 h1 {
-  color: #fff;
   background-color: #79756f;
+  font-family: 'Bevan';
+  color: #fff;
+  padding: .6em, .5em, .75em;
+  display: block;
+  margin: .3em;
+  align-content: center;
+}
+
+.intro {
+  background-color: #713837;
+  color: white;
+  padding: 10px;
+  font-family: sans-serif;
+  display: inline-block;
+  border-radius: 10px;
+  font-weight: lighter;
+}
+
+.terre  {
+  background-color: #713837;
+  color: white;
+  padding: 10px;
+  font-family: sans-serif;
+  display: inline-block;
+  border-radius: 10px;
+  font-weight: lighter;
+}
+
+.mars {
+  background-color: #713837;
+  color: white;
+  padding: 10px;
+  font-family: sans-serif;
+  display: inline-block;
+  border-radius: 10px;
+  font-weight: lighter;
+}
+
+.venus  {
+  background-color: #713837;
+  color: white;
+  padding: 10px;
+  font-family: sans-serif;
+  display: inline-block;
+  border-radius: 10px;
+  font-weight: lighter;
 }
