@@ -9,7 +9,7 @@ html {
 
 body {
   background-color: #dbd6cf;
-  margin: .3em;
+  img: 100%;
 }
 
 div {
@@ -21,7 +21,7 @@ div {
 
 h1 {
   background-color: #79756f;
-  font-family: Bevan, cursive;
+  font-family: "Bevan", cursive;
   color: #fff;
   display: block;
   margin-top: .3em;
