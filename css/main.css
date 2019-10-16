@@ -21,15 +21,12 @@ div {
 
 h1 {
   background-color: #79756f;
-  font-family: Bevan;
+  font-family: Bevan, lighter;
   color: #fff;
   display: block;
-  margin: .3em;
+  margin-top: .3em;
+  margin-bottom: 0em;
   align-content: center;
-}
-
-ul {
-  margin: .3em;
 }
 
 nav {
@@ -57,7 +54,7 @@ ul a {
   font-weight: lighter;
   text-align: center;
   text-decoration: none;
-  margin: .3em;
+  margin-top: 0em;
 }
 
 .intro:hover {
@@ -74,7 +71,7 @@ ul a {
   border-radius: 5px;
   font-weight: lighter;
   text-align: center;
-  margin: .3em;
+  margin: 0em;
 }
 
 .terre:hover {
@@ -91,7 +88,7 @@ ul a {
   border-radius: 5px;
   font-weight: lighter;
   text-align: center;
-  margin: .3em;
+  margin: 0em;
 }
 
 .mars:hover {
@@ -108,7 +105,7 @@ ul a {
   border-radius: 5px;
   font-weight: lighter;
   text-align: center;
-  margin: .3em;
+  margin: 0em;
 }
 
 .venus:hover {
