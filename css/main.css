@@ -21,7 +21,7 @@ div {
 
 h1 {
   background-color: #79756f;
-  font-family: "Bevan", cursive;
+  font-family: Bevan;
   color: #fff;
   display: block;
   margin-top: .3em;
@@ -63,11 +63,6 @@ ul a {
   margin-bottom: .3em;
 }
 
-.intro:hover {
-  color: #fff;
-  background-color: #f33;
-}
-
 .terre {
   background-color: #713837;
   color: #fff;
@@ -80,11 +75,6 @@ ul a {
   border-style: none;
   border: .1em;
   margin-bottom: .3em;
-}
-
-.terre:hover {
-  color: #fff;
-  background-color: #f33;
 }
 
 .mars {
@@ -120,7 +110,7 @@ ul a {
   margin-bottom: .3em;
 }
 
-.venus:hover {
+.intro:hover, .terre:hover, .mars:hover, .venus:hover {
   color: #fff;
   background-color: #f33;
 }
