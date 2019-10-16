@@ -21,7 +21,7 @@ div {
 
 h1 {
   background-color: #79756f;
-  font-family: Bevan;
+  font-family: 'Bevan', serif;
   color: #fff;
   display: block;
   margin-top: .3em;
@@ -89,11 +89,6 @@ ul a {
   border-style: none;
   border: .1em;
   margin-bottom: .3em;
-}
-
-.mars:hover {
-  color: #fff;
-  background-color: #f33;
 }
 
 .venus {
