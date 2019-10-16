@@ -21,7 +21,7 @@ div {
 
 h1 {
   background-color: #79756f;
-  font-family: "Bevan", cursive;
+  font-family: Bevan, serif;
   font-size: 2em;
   color: #fff;
   display: block;
@@ -110,7 +110,7 @@ nav a {
   margin-bottom: .3em;
 }
 
-.intro:hover, .terre:hover, .mars:hover, .venus:hover {
+a:hover {
   color: #fff;
   background-color: #f33;
 }
