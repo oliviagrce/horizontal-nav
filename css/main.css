@@ -21,7 +21,7 @@ div {
 
 h1 {
   background-color: #79756f;
-  font-family: "Bevan";
+  font-family: Bevan;
   color: #fff;
   padding: .6em .5em .75em;
   display: block;
@@ -29,19 +29,25 @@ h1 {
   align-content: center;
 }
 
-nav ul {
-  list-style-type: armenian;
+ul a {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  color: #fff;
+  text-decoration: none;
 }
 
 .intro {
   background-color: #713837;
   color: white;
-  padding: 10px;
+  padding: 0.6em;
   font-family: sans-serif;
   display: inline-block;
   border-radius: 10px;
   font-weight: lighter;
   text-align: center;
+  text-decoration: none;
 }
 
 .intro:hover {
@@ -52,7 +58,7 @@ nav ul {
 .terre {
   background-color: #713837;
   color: white;
-  padding: 10px;
+  padding: 0.6em;
   font-family: sans-serif;
   display: inline-block;
   border-radius: 10px;
@@ -68,7 +74,7 @@ nav ul {
 .mars {
   background-color: #713837;
   color: white;
-  padding: 10px;
+  padding: 0.6em;
   font-family: sans-serif;
   display: inline-block;
   border-radius: 10px;
@@ -84,7 +90,7 @@ nav ul {
 .venus {
   background-color: #713837;
   color: white;
-  padding: 10px;
+  padding: 0.6em;
   font-family: sans-serif;
   display: inline-block;
   border-radius: 10px;
@@ -95,4 +101,9 @@ nav ul {
 .venus:hover {
   color: #fff;
   background-color: #f33;
+}
+
+li {
+  color: #fff;
+  text-decoration: none;
 }
