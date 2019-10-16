@@ -24,12 +24,19 @@ h1 {
   font-family: Bevan;
   color: #fff;
   display: block;
-  margin: .3em
+  margin: .3em;
   align-content: center;
 }
 
 ul {
   margin: .3em;
+}
+
+nav {
+  background-color: #79756f;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 1.2em;
 }
 
 ul a {
