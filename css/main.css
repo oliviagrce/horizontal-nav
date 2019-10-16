@@ -44,6 +44,10 @@ nav ul {
   text-align: center;
 }
 
+.intro:hover {
+  color: #fff;
+  background-color: #f33;
+}
 
 .terre {
   background-color: #713837;
