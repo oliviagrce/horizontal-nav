@@ -21,7 +21,7 @@ div {
 
 h1 {
   background-color: #79756f;
-  font-family: 'Bevan';
+  font-family: bevan, serif;
   font-size: 2em;
   color: #fff;
   display: block;
