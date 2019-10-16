@@ -1,11 +1,14 @@
 html {
   box-sizing: border-box;
   line-height: 1.5;
-  background-color: #dbd6cf;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+body {
+  background-color: #dbd6cf;
 }
 
 div {
