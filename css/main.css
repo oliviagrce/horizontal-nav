@@ -63,6 +63,7 @@ ul a {
 }
 
 .intro:hover {
+  color: #fff;
   background-color: #f33;
 }
 
